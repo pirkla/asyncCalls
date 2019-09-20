@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# run async api calls with curl like syntax
+# run async calls with curl like syntax
 
 import asyncio
 
